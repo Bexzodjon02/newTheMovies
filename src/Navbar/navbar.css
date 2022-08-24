@@ -1,0 +1,144 @@
+.NavbarBack{
+    background: #03254174;
+    width: 100%;
+    height: 100%;
+   
+  }
+  .BackImage{
+    background: url(./navBacklogo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    margin-top: 80px;
+  }
+  .welcome{
+    color: #fff;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 50px;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .WelTExt{
+    color: #fff;
+    padding-left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+    
+  }
+  .NavSearch{
+     width: 1150px;
+     border: none;
+     outline: none;
+     height: 50px;
+     border-bottom-left-radius: 45px;
+     border-top-left-radius: 45px;
+    padding-left: 35px;
+    margin-left: 50px; 
+    margin-top: 40px; 
+    position: absolute;
+    font-size: 20px;
+  }
+  .btnlar{
+    /* background: red; */
+    height: 100px;
+    position: relative;
+  }
+  .navBtn{
+    height: 51px;
+    width: 105px;
+    background:linear-gradient(to right, rgb(47, 255, 144) 0%, rgb(35, 225, 222) 100%) ;
+    border: none;
+    border-radius:50px ;
+    margin-left:1140px;
+    margin-top:40px;
+    z-index: 1;
+    position: absolute;
+    font-size: 18px;font-weight: 700;
+    color: #032541;
+  }
+  .navBtn:hover{
+    color: rgb(228, 15, 15);
+    text-align:right;
+  }
+  
+  
+  /* ===========  CORUSEL ======================== */
+  .carousel_top{
+    margin-top: 40px;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  .navbarCard{
+     width: 160px;
+     height: 350px;
+     position: relative;
+  }
+  .imges{
+    width: 100%;
+    height: 220px;
+    border-radius: 12px;
+  }
+  
+  .toggle{
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 250px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 15px;
+    margin-top: 9px;
+  }
+  .toggle1{
+    background: #032541;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    height: 28px;
+    width: 120px;
+    margin-top: 14px;
+    margin-left: -30px;
+    color: rgb(35, 225, 222);
+    transition: 0.3s;
+    
+    /* color: #fff; */
+  }
+  .toggle2{
+    background: #032541;
+    display: flex;
+    /* color: black; */
+    
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    height: 28px;
+    width: 150px;
+    margin-top: 14px;
+    margin-right: -33px;
+    color:  rgb(35, 225, 222);
+    transition: 0.3s;
+    /* margin-left: 22px; */
+  }
+  .mytoggle{
+    cursor: pointer;
+    margin-top: 14px;
+  }
+  .mytoggle1{
+    cursor: pointer;
+    margin-top: 14px;
+  }
+  .corusel2{
+    background: url(./treanding-bg.svg);
+    background-position:center;
+    background-repeat: no-repeat;
+    padding: 0 40px;
+  }
+  .Savatcha{
+    width: 200px;
+    height: 200px;
+    background: greenyellow;
+  }

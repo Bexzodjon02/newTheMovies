@@ -1,0 +1,23 @@
+.saveBlock{
+    cursor: pointer;
+    margin-left: 40px;
+    /* margin-left: 20px; */
+}
+.saveBlock22{
+    cursor: pointer;
+    /* margin-left: 40px; */
+    /* margin-left: 20px; */
+}
+.saveCard{
+    /* position: absolute; */
+    /* display: none; */
+    width: 110px;
+    height: 150px;
+    background: #ffffffcf;
+    margin-left: 25px;
+    border-radius: 6px;
+}
+.SaveIcons{
+    width: 100px;
+    margin-top: 10px;
+}

@@ -1,0 +1,91 @@
+
+.IDCard .IDcircle{
+  background:#032541;
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  display: flex;align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  transition: 0.4s;
+}
+.IDCard .IDprogress{
+  background:#94de1e;
+  width:90px;
+  height:90px;
+  border-radius: 50%;
+  display: flex;
+ 
+  justify-content: center;
+}
+.IDCard .IDfoiz{
+  background:#032541;
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+  display: flex;align-items: center;
+  justify-content: center;
+  margin-top:5px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 35px;
+}
+.IDfoiz span{
+  font-size: 20px;
+}
+.IDfoiz:hover{
+  width:77px;
+  height:77px;
+  margin-top: 7.5px;
+}
+
+.IDCard .idCard .container{
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 500px;
+  height: 410px;
+  border: 3.5px solid #032541;
+  border-radius: 10px;
+}
+.IDCard .idCard{
+  width: 510px;
+  height: 420px;
+  background: #ffffffc4;
+  border-radius: 10px;
+  position: absolute;
+  left: 650px;
+  top: 160px;
+ 
+}
+.icons .icons2 {
+  display: flex;
+  gap: 25px;
+
+}
+.icons {
+  margin-top: 15px;
+  margin-right: 20px;
+}
+.icons .icons2 li{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #032541;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icons .icons2 li .ico{
+  color: #fff;
+  font-size: 20px;
+  /* color: #18bc23e0; */
+  
+}
+.bgFon{
+    width: 1200px;
+    height: 100%;
+    background: rgba(255, 255, 0, 0.641);
+    margin-left: 120px;
+    margin-top: 120px;
+    
+}
